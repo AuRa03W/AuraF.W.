@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Refleksi Pemblajaran</title>
+    </head>
+    <body>
+        <center>
+            <img src="Image dpk d.png" width="150" height="150">
+            <h1>Nama : Aura Fairuzza W.</h1>
+            <h2>No. Absen  : o3</h2>
+            <H2>Kelas : X PPLG 5</H2>
+            <table border="1" width="100%">
+                <tr>
+                    <th>No</th>
+                    <th>Suka Duka</th>
+                    <th>Kritik dan Saran</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>seru tapi bikin pusing</td>
+                    <td>Mapelnya sebenarnya mudah namun siswa-siswa menangkapnya mapel ini susah sebaiknya guru yang menjelaskan dengan bertahap dan pelan serta menuntun anak-anak yang mungkin kurang dalam penangkapan metari</td>
+                </tr>
+            </table>
+            <p>Lelah bukan menjadi alasan untuk menyerah</p>
+        </body>
+</html>

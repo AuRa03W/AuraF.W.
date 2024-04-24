@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Contoh CSS</title>
+    </head>
+    <body>
+        <style>
+            #p1 {background-color: purple;}
+            #p2 {background-color: blue;}
+            #p3 {background-color: brown;}
+            #p4 {background-color: black;}
+            #p5 {background-color: aqua;}
+        </style>
+            <p>Contoh Beberapa Kode Warna</p>
+            <p id="p1">Purple</p>
+            <p id="p2">Blue</p>
+            <p id="p3">Brown</p>
+            <p id="p4">Black</p>
+            <p id="p5">Aqua</p>
+    </body>
+</html>
